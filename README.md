@@ -11,8 +11,3 @@ LuminaRank is a machine learning-powered web application designed to predict col
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Backend:** Python, Flask, Django
 - **Machine Learning:** Python libraries (e.g., Pandas, NumPy, Scikit-Learn)
-
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/LuminaRank.git
